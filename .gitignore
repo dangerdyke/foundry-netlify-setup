@@ -2,6 +2,20 @@
 foundryvtt/
 foundrydata/
 
+# other foundry junk
+LICENSE*
+chrome*
+*.pak
+foundryvtt.zip
+icudtl.dat
+*.so
+*.so.1
+locales/
+resources/
+*.bin
+swiftshader/
+vk_swiftshader_cd.json
+
 Logs
 logs
 *.log
